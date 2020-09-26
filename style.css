@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}
+.headtag{
+    font-weight:640px;
+    font-size: smaller;
+    padding-bottom:7px;
+}
+.dolar5{
+    font-size:xx-small;
+}
+.colr{
+    background-color: hsl(71, 73%, 54%);
+}
+.col{
+    color:hsl(71, 73%, 54%);
+    font-weight:640px;
+    font-size: smaller;
+}
+.spnc{
+    color:  hsla(210, 3%, 46%, 0.247);
+    font-weight: bold;
+}
+.colwhite{
+    background-color: white;
+}
+.cyanclr{
+    color:hsl(179, 62%, 43%);
+    font-size:large;
+    padding-bottom: 5px;
+}
+.bckcolor{
+    background-color:hsl(179, 62%, 43%);
+}
+.spncol{
+    color: hsl(204, 43%, 93%);
+}
+.box{
+    border-radius: 7px;
+    box-shadow:3px 3px 3px 5px rgba(235, 226, 226, 0.808);
+}
+.btn{
+    color:white;
+    font-weight:640px;
+    font-size: smaller;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    box-shadow:3px 3px 3px 5px rgba(143, 141, 141, 0.281);
+}
+
+button:hover {
+    background-color: rgb(179, 255, 0);
+    color: white;
+    transform: translateY(-1px);
+    box-shadow:5px 5px #8ce78f;
+    
+}
+
+section:hover{
+    transform: translateY(-1px);
+    box-shadow:5px 5px hsl(179, 66%, 61%);
+    transition-duration: 0.4s;
+}
+
+span{
+    font-size:small;
+    font-weight: 400;
+    color:hsl(204, 43%, 93%);
+}
+
+.lastboxcol{
+    background-color:  hsla(179, 62%, 43%, 0.664);
+}
+
+.radsize1{
+    border-radius: 8px 8px 0px 0px;
+}
+
+.radsize2{
+    border-radius: 0px 0px 0px 8px;
+}
+
+.radsize3{
+    border-radius: 0px 0px 8px 0px;
+}
+
+.sizedollar{
+    font-size:large;
+}
+
+.padfull{
+    padding-bottom: 9px;
+}
+
+.txt29{
+    vertical-align: middle;
+    margin-top:7px;
+}
